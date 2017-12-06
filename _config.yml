@@ -1,0 +1,41 @@
+# ----
+# Site
+
+title: Musarañak
+description:
+url:
+google_analytics_key:
+permalink:
+
+collections:
+  posts:
+    title: Posts
+    position: 1
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - LICENSE
+  - CNAME
+  - Gemfile
+  - Gmefile.lock
+  - gulpfile.js
+  - package.json
+  - package-lock.json
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+types:
+  - event
+  - tutorial
+  - stuff
+
+categories:
