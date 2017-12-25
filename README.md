@@ -1,6 +1,6 @@
 # Musarañak
 
-![Musaraña](https://raw.githubusercontent.com/nabaroa/musaranak/master/assets/shrew.png)
+![Musarañak](https://raw.githubusercontent.com/musarainak/musaranak/master/assets/musara%C3%B1ak-logoa.png)
 
 ## Instalation
 
