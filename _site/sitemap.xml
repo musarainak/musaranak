@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2017/09/28/view-source-mozilla.html</loc>
-<lastmod>2017-09-28T00:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2017/09/27/view-source-mozilla-london.html</loc>
-<lastmod>2017-09-27T00:00:00+02:00</lastmod>
+<loc>http://localhost:4000/2017/12/25/tik-tak.html</loc>
+<lastmod>2017-12-25T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/diseinuak/musara%C3%B1ak-logo.pdf</loc>
+<lastmod>2017-12-25T10:51:37+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/node_modules/coa/coverage/coa/index.html</loc>
